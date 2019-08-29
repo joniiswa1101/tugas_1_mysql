@@ -1,0 +1,24 @@
+Apa yang dimaksud dengan database?
+- Sebuah database adalah kumpulan data yang terorganisa
+
+Apa singkatan dan pengertian dari RDBMS?
+- Relational Database Management System. Aplikasi database yang menggunakan prinsip relasional.
+
+Sebutkan 5 cara apa saja yang dipakai dalam penyimpanan data pada database model!
+- Flat Model : Menyimpan data tanpa aturan dan cara penulisan tertentu.    
+  Hierarchical Model : Data terorganisasi dari atas ke bawah.  
+  Network Model : Pengembangan dari hierarchical model.  
+  Relational Model  : Menyusun data ke dalam bentuk tabel yang saling terhubung.
+  Object Oriented Model : Menggunakan pendekatan object dalam menyimpan data.  
+
+Sebutkan 6 aplikasi RDBMS selain MySQL!
+- DB2, Microsoft SQL Server, Oracle, Sybase, PostgreSQL, Microsoft Access
+
+Sebutkan 5 keunggulan MySQL sebagai RDBMS!
+-Speed
+-Reliability
+-Scalability
+-User Friendly
+-Portability and Standard Compliance  
+-Multiuser Support  
+  
